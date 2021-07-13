@@ -1,0 +1,276 @@
+{
+ "description": "N/A",
+ "identifier": "11676.1/3-QJAVztw0JtWUEDsGCHl4tm",
+ "keywords": [
+  "Air temperature",
+  "Precipitation",
+  "Surface Winds",
+  "Humidity",
+  "Atmospheric radiation"
+ ],
+ "language": "N/A",
+ "accessibilitySummary": "N/A",
+ "accountablePerson": "N/A",
+ "version": "N/A",
+ "temporalCoverage": "2013-09-10T23:00:00Z - 2013-09-10T23:00:00Z",
+ "publisher": "N/A",
+ "spatial": "N/A",
+ "longitude": -0.956082,
+ "latitude": 44.49367,
+ "license": "N/A",
+ "citation": "@misc{https://hdl.handle.net/11676.1/3-QJAVztw0JtWUEDsGCHl4tm,\r\n  title={Tarfala Research Station (2021). Meteorological data from Laevasvagge, 2013-09-11–2021-07-01},\r\n  year={2021},\r\n  url={https://hdl.handle.net/11676.1/3-QJAVztw0JtWUEDsGCHl4tm},\r\n  publisher={Tarfala Research Station},\r\n  copyright={https://creativecommons.org/licenses/by/4.0/},\r\n  pid={11676.1/3-QJAVztw0JtWUEDsGCHl4tm}\r\n}",
+ "genre": "Atmosphere",
+ "creator": "N/A",
+ "modification_date": "N/A",
+ "distribution": "N/A",
+ "image": [
+  "https://data.fieldsites.se/objects/DQbLIL1arz1NVymSywHSkha1"
+ ],
+ "thumbnailUrl": "N/A",
+ "headline": "N/A",
+ "abstract": [
+  "Automatic weather station data from locations within the distributed Swedish research infrastructure SITES. Check preview or file for the specific parameters included at this location. Data has been quality controlled and cleaned from outliers and other events producing unrealistic data. Gaps have not been filled. "
+ ],
+ "category": "Daily meteorological dataset",
+ "dateCreated": "2021-07-08",
+ "creditText": "N/A",
+ "datePublished": "2021-07-08",
+ "producer": "N/A",
+ "author": [],
+ "spatialCoverage": [
+  [
+   [
+    18.988337,
+    68.039732
+   ],
+   [
+    18.983865,
+    68.039566
+   ],
+   [
+    18.980161,
+    68.039661
+   ],
+   [
+    18.978069,
+    68.038878
+   ],
+   [
+    18.977974,
+    68.038203
+   ],
+   [
+    18.975692,
+    68.038061
+   ],
+   [
+    18.972935,
+    68.038345
+   ],
+   [
+    18.970083,
+    68.039056
+   ],
+   [
+    18.966185,
+    68.039483
+   ],
+   [
+    18.962953,
+    68.039589
+   ],
+   [
+    18.959245,
+    68.039838
+   ],
+   [
+    18.956203,
+    68.040692
+   ],
+   [
+    18.954396,
+    68.040763
+   ],
+   [
+    18.95316,
+    68.041509
+   ],
+   [
+    18.952495,
+    68.042327
+   ],
+   [
+    18.952495,
+    68.043287
+   ],
+   [
+    18.952685,
+    68.044282
+   ],
+   [
+    18.953636,
+    68.0451
+   ],
+   [
+    18.954777,
+    68.046095
+   ],
+   [
+    18.955727,
+    68.047232
+   ],
+   [
+    18.959815,
+    68.047659
+   ],
+   [
+    18.962668,
+    68.048121
+   ],
+   [
+    18.964189,
+    68.048192
+   ],
+   [
+    18.96571,
+    68.048547
+   ],
+   [
+    18.968372,
+    68.048583
+   ],
+   [
+    18.973886,
+    68.04837
+   ],
+   [
+    18.977689,
+    68.04805
+   ],
+   [
+    18.980541,
+    68.047765
+   ],
+   [
+    18.982157,
+    68.046983
+   ],
+   [
+    18.982918,
+    68.046166
+   ],
+   [
+    18.984914,
+    68.04542
+   ],
+   [
+    18.986626,
+    68.044957
+   ],
+   [
+    18.987672,
+    68.043962
+   ],
+   [
+    18.988432,
+    68.042967
+   ],
+   [
+    18.990238,
+    68.04254
+   ],
+   [
+    18.991474,
+    68.041971
+   ],
+   [
+    18.99233,
+    68.041545
+   ],
+   [
+    18.993376,
+    68.041083
+   ],
+   [
+    18.994422,
+    68.040372
+   ],
+   [
+    18.99233,
+    68.040443
+   ],
+   [
+    18.990238,
+    68.040407
+   ],
+   [
+    18.988337,
+    68.039732
+   ]
+  ]
+ ],
+ "url": "https://data.fieldsites.se/objects/3-QJAVztw0JtWUEDsGCHl4tm",
+ "temporal": "2021-07-08",
+ "sponsor": "N/A",
+ "size": 181670,
+ "sdPublisher": "N/A",
+ "sdLicense": "N/A",
+ "sameAs": "N/A",
+ "publication": "N/A",
+ "provider": "Tarfala Research Station",
+ "position": "N/A",
+ "name": "SITES_MET_TRS_LAE_20130911-20210630_L2_DAILY.csv",
+ "measurementTechnique": "RAMCES - G24",
+ "material": "N/A",
+ "maintainer": "N/A",
+ "locationCreated": "[18.611055, 67.91123, 1130.0]",
+ "issn": "N/A",
+ "isPartOf": "N/A",
+ "isBasedOn": "N/A",
+ "isAccessibleForFree": "N/A",
+ "includedInDataCatalog": "N/A",
+ "editor": "N/A",
+ "editEIDR": "N/A",
+ "copyrightYear": "N/A",
+ "copyrightNotice": "N/A",
+ "copyrightHolder": "N/A",
+ "contributor": "N/A",
+ "contentReferenceTime": "N/A",
+ "contentLocation": "N/A",
+ "character": "N/A",
+ "acquireLicensePage": "N/A",
+ "accessModeSufficient": "N/A",
+ "about": "N/A",
+ "rights": "N/A",
+ "relation": "N/A",
+ "qualified_relation": "N/A",
+ "qualified_attribution": "N/A",
+ "previous_version": "N/A",
+ "landing_page": "https://meta.icos-cp.eu/objects/1/3-QJAVztw0JtWUEDsGCHl4tm",
+ "is_referenced_by": "N/A",
+ "in_series": "N/A",
+ "has_version": "N/A",
+ "has_policy": "N/A",
+ "has_current_version": "N/A",
+ "useConstraints": "N/A",
+ "status": "N/A",
+ "spatialRepresentationType": "N/A",
+ "spatialRepresentationInfo": "N/A",
+ "scope": "N/A",
+ "responsibleParty": "Stockholm University",
+ "releasability": "N/A",
+ "reference": "N/A",
+ "purpose": "N/A",
+ "otherLocale": "N/A",
+ "metadataProfile": "N/A",
+ "metadataLinkage": "N/A",
+ "metadataIdentifier": "N/A",
+ "MD_LegalConstraints": "N/A",
+ "MD_Identification": "N/A",
+ "environmentDescription": "N/A",
+ "distributor": "ICOS",
+ "distributionInfo": "N/A",
+ "dataQualityInfo": "N/A",
+ "contentInfo": "N/A",
+ "contact": "N/A"
+}

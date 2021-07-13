@@ -1,0 +1,162 @@
+{
+ "description": "N/A",
+ "identifier": "11676/EKhWDi_gFmWr018nLeUWMzyU",
+ "keywords": [
+  "ICOS"
+ ],
+ "language": "N/A",
+ "accessibilitySummary": "N/A",
+ "accountablePerson": "N/A",
+ "version": "N/A",
+ "temporalCoverage": "2021-05-05T00:00:00.371Z - 2021-05-05T00:00:00.371Z",
+ "publisher": "N/A",
+ "spatial": "N/A",
+ "longitude": 6.447145,
+ "latitude": 50.86591,
+ "license": "N/A",
+ "citation": "@misc{https://hdl.handle.net/11676/EKhWDi_gFmWr018nLeUWMzyU,\r\n  author={Gkritzalis, T.},\r\n  title={ICOS OTC Raw Data, BE-SOOP-Simon-Stevin, 2021-05-05},\r\n  year={2021},\r\n  url={https://hdl.handle.net/11676/EKhWDi_gFmWr018nLeUWMzyU},\r\n  publisher={Ocean Thematic Centre},\r\n  copyright={https://creativecommons.org/licenses/by/4.0/},\r\n  pid={11676/EKhWDi_gFmWr018nLeUWMzyU}\r\n}",
+ "genre": "Ocean data",
+ "creator": "N/A",
+ "modification_date": "N/A",
+ "distribution": "N/A",
+ "image": [],
+ "thumbnailUrl": "N/A",
+ "headline": "N/A",
+ "abstract": [],
+ "category": "Atmospheric CO mole fraction time series",
+ "dateCreated": "2021-05-06",
+ "creditText": "N/A",
+ "datePublished": "2021-05-06",
+ "producer": "N/A",
+ "author": [
+  "Thanos Gkritzalis"
+ ],
+ "spatialCoverage": [
+  [
+   [
+    3.490085,
+    51.4195
+   ],
+   [
+    3.859583,
+    51.341723
+   ],
+   [
+    3.98443,
+    51.407737
+   ],
+   [
+    4.129314,
+    51.38915
+   ],
+   [
+    4.406813,
+    51.249782
+   ],
+   [
+    4.143052,
+    51.39734
+   ],
+   [
+    3.980889,
+    51.450037
+   ],
+   [
+    3.733259,
+    51.412944
+   ],
+   [
+    3.198701,
+    51.500922
+   ],
+   [
+    3.000542,
+    51.602947
+   ],
+   [
+    2.800769,
+    51.647011
+   ],
+   [
+    2.299241,
+    51.499901
+   ],
+   [
+    2.565305,
+    51.110266
+   ],
+   [
+    2.896795,
+    51.226358
+   ],
+   [
+    3.490085,
+    51.4195
+   ]
+  ]
+ ],
+ "url": "https://data.icos-cp.eu/objects/jSqwNw44ENG6kqqvmbRLhkEz",
+ "temporal": "2021-05-06",
+ "sponsor": "N/A",
+ "size": 89838,
+ "sdPublisher": "N/A",
+ "sdLicense": "N/A",
+ "sameAs": "N/A",
+ "publication": "N/A",
+ "provider": "Ocean Thematic Centre",
+ "position": "N/A",
+ "name": "ICOS_210505.sqlite.csv",
+ "measurementTechnique": "N/A",
+ "material": "N/A",
+ "maintainer": "N/A",
+ "locationCreated": "[[[3.490085, 51.4195], [3.859583, 51.341723], [3.98443, 51.407737], [4.129314, 51.38915], [4.406813, 51.249782], [4.143052, 51.39734], [3.980889, 51.450037], [3.733259, 51.412944], [3.198701, 51.500922], [3.000542, 51.602947], [2.800769, 51.647011], [2.299241, 51.499901], [2.565305, 51.110266], [2.896795, 51.226358], [3.490085, 51.4195]]]",
+ "issn": "N/A",
+ "isPartOf": "N/A",
+ "isBasedOn": "N/A",
+ "isAccessibleForFree": "N/A",
+ "includedInDataCatalog": "N/A",
+ "editor": "N/A",
+ "editEIDR": "N/A",
+ "copyrightYear": "N/A",
+ "copyrightNotice": "N/A",
+ "copyrightHolder": "N/A",
+ "contributor": "N/A",
+ "contentReferenceTime": "N/A",
+ "contentLocation": "N/A",
+ "character": "N/A",
+ "acquireLicensePage": "N/A",
+ "accessModeSufficient": "N/A",
+ "about": "N/A",
+ "rights": "N/A",
+ "relation": "N/A",
+ "qualified_relation": "N/A",
+ "qualified_attribution": "N/A",
+ "previous_version": "N/A",
+ "landing_page": "https://meta.icos-cp.eu/objects/EKhWDi_gFmWr018nLeUWMzyU",
+ "is_referenced_by": "N/A",
+ "in_series": "N/A",
+ "has_version": "N/A",
+ "has_policy": "N/A",
+ "has_current_version": "N/A",
+ "useConstraints": "N/A",
+ "status": "N/A",
+ "spatialRepresentationType": "N/A",
+ "spatialRepresentationInfo": "N/A",
+ "scope": "N/A",
+ "responsibleParty": "Vlaams Instituut voor de Zee (Flanders Marine Institute), VLIZ",
+ "releasability": "N/A",
+ "reference": "N/A",
+ "purpose": "N/A",
+ "otherLocale": "N/A",
+ "metadataProfile": "N/A",
+ "metadataLinkage": "N/A",
+ "metadataIdentifier": "N/A",
+ "MD_LegalConstraints": "N/A",
+ "MD_Identification": "N/A",
+ "environmentDescription": "N/A",
+ "distributor": "ICOS",
+ "distributionInfo": "N/A",
+ "dataQualityInfo": "N/A",
+ "contentInfo": "N/A",
+ "contact": "N/A"
+}
